@@ -77,7 +77,7 @@ jobs:
 
       - name: Generate configuration file
         run: |
-          cp -f menuconfig .config
+          cp -f .github/menuconfig-immortalwrt .config
           make defconfig
 
       - name: Download packages
