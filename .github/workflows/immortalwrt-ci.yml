@@ -33,7 +33,7 @@ jobs:
       - name: "Optimize Disk Space"
         uses: "hugoalh/disk-space-optimizer-ghaction@v0.8.1"
         with:
-         operate_sudo: "False"
+         operate_sudo: "True"
          general_include: ".+"
          general_exclude: |-
            ^GCC$
