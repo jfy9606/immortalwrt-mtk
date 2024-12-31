@@ -163,11 +163,4 @@ If you have questions or issues, please join the discussion on OpenWrt's forums.
 
 ## Support the Project
 
-I never really thought about setting up donations before, but with so many people being receptive and appreciative and asking how to contribute, I figured, why not? Of course, this project also builds on the incredible work done by the talented devs upstream who put in countless hours into OpenWrt itself. I’ll definitely continue working on this, but if you’d like to support, every bit helps.
-
-[![Donate with PayPal](./paypal.png)](https://www.paypal.com/donate?business=3V3H2SZFY7DNQ&item_name=Maintaining+NSS+fork+of+OpenWRT+and+NSS+packages.)
-<a href="https://cash.app/$austinzk">
-  <img src="./cashapp.png" alt="Cashapp" width="150px"/>
-</a>
-
 Consider donating to the [OpenWrt Foundation](https://openwrt.org/donate)
